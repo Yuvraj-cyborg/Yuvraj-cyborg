@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj-cyborg&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj-cyborg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yuvrajbiswal3" target="blank"><img src="https://img.shields.io/twitter/follow/yuvrajbiswal3?logo=twitter&style=for-the-badge" alt="yuvrajbiswal3" /></a> </p>
+- 🌱 I’m currently learning **Go, Deep Learning, AI for Astrophysics**
 
-- 🌱 I’m currently learning **Java, Rust, NEXT JS**
-
-- 💬 Ask me about **NUXT JS**
+- 💬 Ask me about **RUST**
 
 - 📫 How to reach me **yuvrajbiswalofficial@gmail.com**
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuvrajbiswal3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajbiswal3" height="30" width="40" /></a>
+<a href="https://x.com/yuvicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvrajbiswal3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yuvraj biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj biswal" height="30" width="40" /></a>
 <a href="https://instagram.com/yuvraj.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exceptional_cosmophile" height="30" width="40" /></a>
 </p>
