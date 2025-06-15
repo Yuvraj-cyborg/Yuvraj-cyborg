@@ -1,19 +1,14 @@
-# 👋 Hi, I'm Yuvraj Biswal
+Hi, I'm Yuvraj.
 
-🎓 2nd-year CS undergrad | 💻 Full-Stack Developer | 🧠 AI/ML & DevOps Enthusiast
+[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/yuvicodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajbiswal)
 
-📫 yuvrajbiswalofficial@gmail.com  
-🌐 [Portfolio](https://github.com/Yuvraj-cyborg)  
-🛠️ Building with: Rust, Go, React, Vue/Nuxt, PostgreSQL, Docker
+I like building backend systems, developer tools, and AI-powered games.  
+Currently into Rust, Go, and Web3.
 
----
+Things I’m working on:
 
-### 🚀 Highlight Projects
-- 🎮 **[Maze Wizard](https://github.com/Yuvraj-cyborg/Maze-Wizard)** — Rust-based AI dungeon game with Q-learning
-- 📚 **[Gradsy](https://github.com/Yuvraj-cyborg/Gradsy)** — Quiz & LMS system (Java + Vaadin)
-- 🗳️ **[OTV Voting Platform](https://www.otvinsight.com)** — Production-grade platform handling 50K+ users/hour
-- 🧩 **[QuikBase](https://github.com/Yuvraj-cyborg/quikbase)** — Go-powered database API service with auto-schema & Docker
+- **Maze Wizard** – Rust-based dungeon chase with evolving AI enemies.  
+- **QuikBase** – Go-powered DB API service with schema automation and Docker support.
 
----
-
-💡 Always curious, always building — let's connect!
+Curious by default. Shipping often.
