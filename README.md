@@ -9,8 +9,8 @@ Currently into Rust, Go, and Web3.
 
 Things I’m working on:
 
-- **Lexy** - An Operating System made in Rust.
-- **Maze Wizard** – Rust-based dungeon chase with evolving AI enemies.  
-- **QuikBase** – Go-powered DB API service with schema automation and Docker support.
+- **P2rent** - Basically Peer-to-peer decentralised, Micro Bit-torrent.
+- **Kairo** – Static Site generator in Rust .  
+- **Pido** – A CLI tool to compress PDFs,images and text files in Go.
 
 Curious by default. Shipping often.
