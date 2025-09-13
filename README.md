@@ -5,7 +5,7 @@ Hi, I'm Yuvraj.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvrajbiswal)
 
 I like building backend systems, developer tools, and AI-powered games.  
-Currently into Rust, Go, and Web3.
+Currently into Rust, and Rust is in me.
 
 Things I’m working on:
 
