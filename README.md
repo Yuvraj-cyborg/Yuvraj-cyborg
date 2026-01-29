@@ -1,7 +1,7 @@
 Hi, I'm Yuvraj.
 
 <div align="center">
-  <img src="./tmuxy.gif"/>
+  <img src="./golang.gif"/>
 </div>
 
 [![Blog](https://img.shields.io/badge/Blog-111827?logo=feather&logoColor=white)](https://yuvraj-dev.me/blog)
