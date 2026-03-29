@@ -14,6 +14,5 @@ Things I’m working on:
 
 - **P2rent** - Basically Peer-to-peer decentralised, Micro Bit-torrent.
 - **Kairo** – Static Site generator in Rust .  
-- **Bayronik**
 
 Curious by default. Shipping often.
