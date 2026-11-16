@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.gif" width="380" alt="Atom from PLUTO"/>
+  <img src="./header.gif" width="340" alt="Spider-Man at a desk"/>
 </div>
 
 [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=white)](https://x.com/yuvicodes)
